@@ -1,0 +1,23 @@
+# Python Virtual Environment
+venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+dataset/
+# Node Modules
+node_modules/
+
+# Uploads
+backend/uploads/
+
+# VS Code
+.vscode/
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
